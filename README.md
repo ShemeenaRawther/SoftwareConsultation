@@ -12,5 +12,5 @@
 - 🎓 Teaching via YouTube
 
 - 📫 Reach me at: **shemeenasrawther@gmail.com**
-- 
+ 
 😄 Pronunciation: _she-meena!_
