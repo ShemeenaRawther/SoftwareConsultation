@@ -5,3 +5,8 @@
 
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShemeenaRawther&layout=compact&theme=radical)
+
+### 🔭 Currently working on:
+- 🚀 New .net content
+- 🛠️ ASP.NET Core projects
+- 🎓 Teaching via YouTube
